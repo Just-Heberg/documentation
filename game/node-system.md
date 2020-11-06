@@ -1,4 +1,4 @@
-# Informations
+# NodeJS
 
 Notre système NodeJS fonctionne à l'aide d'un docker sous alpine, qui lance une instance de nodejs. C'est à toi d'installer ton propre bot, le conteneur démarrera sur **index.js**
 
