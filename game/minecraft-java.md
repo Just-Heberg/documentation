@@ -1,5 +1,9 @@
 # Minecraft: JAVA
 
+## Informations
+
+Par défaut, l'ensemble de nos serveurs minecraft sont pré-configurés sur la dernière version de Minecraft avec l'API de PaperSpigot. Donc, par défaut, ton serveur pourra accepter des plugins et fonctionnera sur la dernière version.
+
 ## Changer de version
 
 Premièrement, tu peux choisir ta version parmi notre liste disponible dans la page **Plugins** du Panel.
